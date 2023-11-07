@@ -6,7 +6,8 @@ config: powertoys_settings_133438212070976886.ptb
 config: ./WGestures 1.8.5.0_2023-11-7.wgb
 
 ## everything
-web search
+link: web search
+
 config: can't be exported
 
 ## fscapture
@@ -21,3 +22,5 @@ link: OneDrive\software\装机必备\T-Clock_任务栏显示完整时间_win10_o
 ## QTTabBar
 [link](http://qttabbar.wdfiles.com/local--files/qttabbar1/QTTabBar%202048%20Beta2.zip)
 config: ./QTTabBarConfig-2022-5-23.xml
+
+test force push
