@@ -23,4 +23,7 @@ link: OneDrive\software\装机必备\T-Clock_任务栏显示完整时间_win10_o
 [link](http://qttabbar.wdfiles.com/local--files/qttabbar1/QTTabBar%202048%20Beta2.zip)
 config: ./QTTabBarConfig-2022-5-23.xml
 
+## context menu > copy as path
+file: ./context menu copy as path
+
 test force push
