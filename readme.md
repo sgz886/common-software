@@ -1,5 +1,6 @@
-##PowerToy
+## PowerToy
 config: powertoys_settings_133438212070976886.ptb
+use:    唱过>备份/还原>选择文件>还原
 
 ## wgesture
 [link](https://dl.yingdev.com/Content/Projects/WGestures/Release/1.8.5.0/Install%20WGestures%201.8.5.0.zip)
@@ -26,4 +27,11 @@ config: ./QTTabBarConfig-2022-5-23.xml
 ## context menu > copy as path
 file: ./context menu copy as path
 
-test force push
+## Microsoft Word
+template: \OneDrive\software\装机必备\good template.dotx
+### config
+| shortcut key | setup                  |
+|--------------|------------------------|
+| alt + f      | 自定义功能区>所有命令>Color: 红色  |
+| alt +d       | 自定义功能区>所有命令>format ?   |
+| alt+a        | 自定义功能区>所有命令>highlight? |
