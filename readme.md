@@ -30,8 +30,9 @@ file: ./context menu copy as path
 ## Microsoft Word
 template: \OneDrive\software\装机必备\good template.dotx
 ### config
-| shortcut key | setup                  |
-|--------------|------------------------|
-| alt + f      | 自定义功能区>所有命令>Color: 红色  |
-| alt +d       | 自定义功能区>所有命令>format ?   |
-| alt+a        | 自定义功能区>所有命令>highlight? |
+| shortcut key | setup                             |
+|--------------|-----------------------------------|
+| alt + f      | 自定义功能区>所有命令>Color: red            |
+| alt +d       | 自定义功能区>home选项卡>FormatParagraph    |
+| alt+a        | 自定义功能区>所有命令>highlight             |
+| alt + b      | 自定义功能区>home选项卡>ClearAllFormatting |
